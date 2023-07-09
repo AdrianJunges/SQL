@@ -5,7 +5,7 @@ from classes import (
     Marca
 )
 
-conexao = pymysql.connect(
+'''conexao = pymysql.connect(
     host="localhost",
     user="root",
     password="Amnj5567",
@@ -35,5 +35,6 @@ for x in linhas:
     print(marca, carro)
 
 conexao.close()
-
-
+'''
+carro = Carro.find_by_id(4)
+print(carro)

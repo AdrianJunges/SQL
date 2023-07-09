@@ -1,0 +1,11 @@
+Tipos primitivos
+
+Variaveis simples e compostas
+
+Dicionários
+
+Estruturas de repetição
+
+Esstruturas condicionais 
+
+Programação orientada a objeto (classes, instancias, herança, encapsulamento)
